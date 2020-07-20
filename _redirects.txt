@@ -1,19 +1,19 @@
-/index.html https://www.familypsychiatry.us
-/OURSERVICES.en.html https://www.familypsychiatry.us/services
-/MEETOURSTAFF.en.html https://www.familypsychiatry.us/providers
-/HEALTHARTICLES.en.html https://www.familypsychiatry.us/library
+/index.html https://www.familypsychiatry.us 301
+/OURSERVICES.en.html https://www.familypsychiatry.us/services 301
+/MEETOURSTAFF.en.html https://www.familypsychiatry.us/providers 301
+/HEALTHARTICLES.en.html https://www.familypsychiatry.us/library 301
 
-/TelePsychTeleHealth.en.html https://www.familypsychiatry.us/library/telepsychiatry-telecounseling
-/SALIVAURINEBLOODSAMPLETESTING.en.html https://www.familypsychiatry.us/library/brain-chemistry-testing-and-analysis
-/PSYCHOTHERAPYCOUNSELINGSERVICES.en.html https://www.familypsychiatry.us/library/psychotherapy-and-counseling-services
-/ANXIETYSTRESSPANICATTACKSOCDPTSDPHOBIAS.en.html https://www.familypsychiatry.us/library/anxiety-and-related-conditions
-/DEPRESSIONRELATEDMOODDISORDERS.en.html https://www.familypsychiatry.us/library/depression-and-related-mood-disorders
-/ATTENTIONDEFICITHYPERACTIVITYDISORDER.en.html https://www.familypsychiatry.us/library/adhd-in-children
-/ADHDINAdults.en.html https://www.familypsychiatry.us/library/adhd-in-adults
-/ADDICTIONRECOVERYDUALDIAGNOSIS.en.html https://www.familypsychiatry.us/library/addiction-recovery-and-dual-diagnosis
-/SLEEPDISTURBANCES.en.html https://www.familypsychiatry.us/library/having-trouble-with-insomnia-try-increasing-your-magnesium-intake
-/PSYCHIATRICMEDICATIONMANAGEMENT.en.html https://www.familypsychiatry.us/library/psychiatric-medication-management
-/TranscranialMagneticStimulation.en.html https://www.familypsychiatry.us/library/transcranial-magnetic-stimulation-tms
-/NATURALREMEDIES.en.html https://www.familypsychiatry.us/library/an-introduction-to-natural-remedies
-/NATUROPATHICTREATMENT.en.html https://www.familypsychiatry.us/library/alternative-treatments
-/FREQUENTLYASKEDQUESTIONS.en.html https://www.familypsychiatry.us/library/frequently-asked-questions
+/TelePsychTeleHealth.en.html https://www.familypsychiatry.us/library/telepsychiatry-telecounseling 301
+/SALIVAURINEBLOODSAMPLETESTING.en.html https://www.familypsychiatry.us/library/brain-chemistry-testing-and-analysis 301
+/PSYCHOTHERAPYCOUNSELINGSERVICES.en.html https://www.familypsychiatry.us/library/psychotherapy-and-counseling-services 301
+/ANXIETYSTRESSPANICATTACKSOCDPTSDPHOBIAS.en.html https://www.familypsychiatry.us/library/anxiety-and-related-conditions 301
+/DEPRESSIONRELATEDMOODDISORDERS.en.html https://www.familypsychiatry.us/library/depression-and-related-mood-disorders 301
+/ATTENTIONDEFICITHYPERACTIVITYDISORDER.en.html https://www.familypsychiatry.us/library/adhd-in-children 301
+/ADHDINAdults.en.html https://www.familypsychiatry.us/library/adhd-in-adults 301
+/ADDICTIONRECOVERYDUALDIAGNOSIS.en.html https://www.familypsychiatry.us/library/addiction-recovery-and-dual-diagnosis 301
+/SLEEPDISTURBANCES.en.html https://www.familypsychiatry.us/library/having-trouble-with-insomnia-try-increasing-your-magnesium-intake 301
+/PSYCHIATRICMEDICATIONMANAGEMENT.en.html https://www.familypsychiatry.us/library/psychiatric-medication-management 301
+/TranscranialMagneticStimulation.en.html https://www.familypsychiatry.us/library/transcranial-magnetic-stimulation-tms 301
+/NATURALREMEDIES.en.html https://www.familypsychiatry.us/library/an-introduction-to-natural-remedies 301
+/NATUROPATHICTREATMENT.en.html https://www.familypsychiatry.us/library/alternative-treatments 301
+/FREQUENTLYASKEDQUESTIONS.en.html https://www.familypsychiatry.us/library/frequently-asked-questions 301
