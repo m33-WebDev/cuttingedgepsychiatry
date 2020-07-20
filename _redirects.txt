@@ -1,4 +1,4 @@
-/index.html https://www.familypsychiatry.us
+/index https://www.familypsychiatry.us
 /OURSERVICES.en.html https://www.familypsychiatry.us/services
 /MEETOURSTAFF.en.html https://www.familypsychiatry.us/providers
 /HEALTHARTICLES.en.html https://www.familypsychiatry.us/library
