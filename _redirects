@@ -2,7 +2,7 @@
 # https://cuttingedgepsychiatry.netlify.com/* https://familypsychiatry.us/:splat 301!
 
 / https://www.familypsychiatry.us 301!
-/ourservices.en https://www.familypsychiatry.us/services 301!
+/ourservices.en* https://www.familypsychiatry.us/services 301!
 /meetourstaff.en https://www.familypsychiatry.us/providers 301!
 /healtharticles.en https://www.familypsychiatry.us/library 301!
 
